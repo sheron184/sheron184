@@ -1,4 +1,4 @@
-I am self-taught full stack web developer. 
+#I am self-taught full stack web developer. 
 Currently a 4th year computer science
 student. 
 
