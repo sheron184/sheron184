@@ -1,5 +1,5 @@
 
-# I am self-taught full stack <br> web developer. 
+# I am a self-taught full stack <br> web developer. 
 Currently a 4th year computer science
 student. 
 
