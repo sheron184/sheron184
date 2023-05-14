@@ -1,11 +1,16 @@
 
 # I am a self-taught full stack <br> web developer. 
-Currently a 4th year computer science
-student. 
 
 I have a huge Passione for programming and technologies. 
-My primary skills
-so far, PHP and JavaScript. 
+My primary skills so far, 
+
+-PHP 
+-JavaScript
+-Node.js
+-React
+-Nuxt
+-Laravel
+-Vue
 
 For PHP development I'm using LARAVEL and
 CODEIGNITER. 
