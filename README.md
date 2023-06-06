@@ -1,5 +1,5 @@
 
-# I am a self-taught full stack <br> web developer. 
+# I am a self-taught full stack developer. 
 
 I have a huge Passione for programming and technologies. 
 My primary skills so far, 
