@@ -8,6 +8,7 @@ I have a huge Passione for programming and technologies.
 ### Web related
 - PHP 
 - JavaScript
+- TypeScript (learning)
 - Node.js
 - React
 - Nuxt
