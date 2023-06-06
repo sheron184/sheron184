@@ -4,13 +4,13 @@
 I have a huge Passione for programming and technologies. 
 My primary skills so far, 
 
--PHP 
--JavaScript
--Node.js
--React
--Nuxt
--Laravel
--Vue
+- PHP 
+- JavaScript
+- Node.js
+- React
+- Nuxt
+- Laravel
+- Vue
 
 For PHP development I'm using LARAVEL and
 CODEIGNITER. 
