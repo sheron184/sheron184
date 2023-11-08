@@ -6,19 +6,18 @@ I have a huge Passione for programming and technologies.
 ## My primary skills  🚀
 
 ### Web related
-- PHP 
 - JavaScript
-- TypeScript (learning)
-- Node.js
+- TypeScript
 - React
 - Nuxt
 - Laravel
 - Vue
 
-### Programming related (Backend)
-- Java
-- C#
+### Backend
 - Python
+- Node.js
+- PHP
+- Go (learning)
 
 ### Other
 - Tailwind
