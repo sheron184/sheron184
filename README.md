@@ -1,37 +1,37 @@
 
-# I am a self-taught engineer 👨‍💻
+# I am a self-taught engineer 📌
 
-> I like to think myself as an engineer not as a specific tech realted developer.
+> 🔰 I like to think myself as an engineer not as a specific tech realted developer.
 
-> I like to learn anything and build whatever that gets the job done.
+> 🔰 I prefer to learn anything and build whatever that gets the job done.
 
-> My mantra is be an engineer not a frameworker!
+> 🔰 My mantra is be an engineer not a frameworker! 
 
 ## My primary skills  🚀
 
 ### Web related
-- JavaScript
-- TypeScript
-- React
-- Nuxt
-- Laravel
-- Symfony
-- Codeigniter
-- Vue
+- [x] JavaScript
+- [x] TypeScript
+- [x] React
+- [x] Nuxt
+- [x] Laravel
+- [x] Symfony
+- [x] Codeigniter
+- [x] Vue
 
 ### Backend
-- Python
-- Node.js
-- PHP
-- Go (learning)
+- [x]  Python
+- [x]  Node.js
+- [x]  PHP
+- [x]  Go (learning)
 
 ### Other
-- Tailwind
-- Bootstrap
-- Wordpress
-- Jquery
-- REST API
-- React native
+- [x]  Tailwind
+- [x]  Bootstrap
+- [x]  Wordpress
+- [x]  Jquery
+- [x]  REST API
+- [x]  React native
 
 
 > I'm also good at UX/UI design and front-end development with HTML,
