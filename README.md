@@ -1,8 +1,10 @@
 
 # I am a self-taught engineer 👨‍💻
 
-> I like to think myself as an engineer not as a specific tech realted developer. 
-> I like to learn anything and build whatever that gets the job done. 
+> I like to think myself as an engineer not as a specific tech realted developer.
+
+> I like to learn anything and build whatever that gets the job done.
+
 > My mantra is be an engineer not a frameworker!
 
 ## My primary skills  🚀
