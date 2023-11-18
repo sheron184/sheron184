@@ -1,7 +1,9 @@
 
-# I am a self-taught full stack developer 👨‍💻
+# I am a self-taught engineer 👨‍💻
 
-I have a huge Passione for programming and technologies. 
+> I like to think myself as an engineer not as a specific tech realted developer. 
+> I like to learn anything and build whatever that gets the job done. 
+> My mantra is be an engineer not a frameworker!
 
 ## My primary skills  🚀
 
@@ -11,6 +13,8 @@ I have a huge Passione for programming and technologies.
 - React
 - Nuxt
 - Laravel
+- Symfony
+- Codeigniter
 - Vue
 
 ### Backend
