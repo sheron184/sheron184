@@ -1,5 +1,5 @@
 
-# I am a self-taught engineer 📌
+# Problem Solver
 
 > 🔰 I like to think myself as an engineer not as a specific tech realted developer.
 
