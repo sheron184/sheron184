@@ -73,7 +73,7 @@ Go                    ████████              40% (learning)
 ## 📫 Let's Connect
 
 - **LinkedIn:** [LinkedIn](https://linkedin.com/in/sheron-jude-979b02196)
-- **Email:** your.sheronjude4@gmail.com
+- **Email:** [Email]sheronjude4@gmail.com
 - **Epistle:** [Epistle](https://epistle.guru)
 
 ---
